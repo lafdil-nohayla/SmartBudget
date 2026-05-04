@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/expensesFragment">
+
+    <fragment
+        android:id="@+id/expensesFragment"
+        android:name="com.smartbudget.ui.expenses.ExpensesFragment"
+        android:label="Dépenses"
+        tools:layout="@layout/fragment_expenses">
+        <action
+            android:id="@+id/action_expenses_to_add_expense"
+            app:destination="@id/addExpenseFragment"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/statsFragment"
+        android:name="com.smartbudget.ui.stats.StatsFragment"
+        android:label="Statistiques"
+        tools:layout="@layout/fragment_stats"/>
+
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.smartbudget.ui.settings.SettingsFragment"
+        android:label="Paramètres"
+        tools:layout="@layout/fragment_settings"/>
+
+    <fragment
+        android:id="@+id/addExpenseFragment"
+        android:name="com.smartbudget.ui.add.AddExpenseFragment"
+        android:label="Dépense"
+        tools:layout="@layout/fragment_add_expense">
+        <argument
+            android:name="expenseId"
+            app:argType="long"
+            android:defaultValue="-1L"/>
+    </fragment>
+
+</navigation>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SmartBudget</string>
+    <string name="tab_expenses">Dépenses</string>
+    <string name="tab_stats">Stats</string>
+    <string name="tab_settings">Paramètres</string>
+    <string name="add_expense">Nouvelle dépense</string>
+    <string name="edit_expense">Modifier la dépense</string>
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="delete">Supprimer</string>
+    <string name="total_month">Total du mois</string>
+</resources>

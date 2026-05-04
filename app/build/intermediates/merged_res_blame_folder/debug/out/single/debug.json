@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/layout_activity_main.xml.flat",
+        "source": "com.smartbudget.app-main-55:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.smartbudget.app-main-55:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/drawable_ic_chart.xml.flat",
+        "source": "com.smartbudget.app-main-55:/drawable/ic_chart.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/drawable_ic_settings.xml.flat",
+        "source": "com.smartbudget.app-main-55:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/layout_dialog_add_category.xml.flat",
+        "source": "com.smartbudget.app-main-55:/layout/dialog_add_category.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/drawable_ic_back.xml.flat",
+        "source": "com.smartbudget.app-main-55:/drawable/ic_back.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/layout_fragment_add_expense.xml.flat",
+        "source": "com.smartbudget.app-main-55:/layout/fragment_add_expense.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/navigation_nav_graph.xml.flat",
+        "source": "com.smartbudget.app-main-55:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/layout_fragment_settings.xml.flat",
+        "source": "com.smartbudget.app-main-55:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/drawable_spinner_background.xml.flat",
+        "source": "com.smartbudget.app-main-55:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.smartbudget.app-main-55:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.smartbudget.app-main-55:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/layout_item_category_settings.xml.flat",
+        "source": "com.smartbudget.app-main-55:/layout/item_category_settings.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/layout_item_category_stat.xml.flat",
+        "source": "com.smartbudget.app-main-55:/layout/item_category_stat.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/layout_fragment_expenses.xml.flat",
+        "source": "com.smartbudget.app-main-55:/layout/fragment_expenses.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/drawable_ic_wallet.xml.flat",
+        "source": "com.smartbudget.app-main-55:/drawable/ic_wallet.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/layout_fragment_stats.xml.flat",
+        "source": "com.smartbudget.app-main-55:/layout/fragment_stats.xml"
+    },
+    {
+        "merged": "com.smartbudget.app-merged_res-53:/layout_item_expense.xml.flat",
+        "source": "com.smartbudget.app-main-55:/layout/item_expense.xml"
+    }
+]
