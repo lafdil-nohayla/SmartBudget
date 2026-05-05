@@ -28,9 +28,17 @@ Développée dans le cadre du module **Développement Mobile** — Filière LSI,
 
 <p align="center">
   <img src="images/screen_expenses.png" width="22%" alt="Liste des dépenses"/>
-  <img src="images/screen_add.png"      width="22%" alt="Formulaire dépense"/>
   <img src="images/screen_stats.png"    width="22%" alt="Statistiques"/>
   <img src="images/screen_settings.png" width="22%" alt="Paramètres"/>
+  <img src="images/screen_add.png"      width="22%" alt="Formulaire dépense"/>
+  <img src="images/date_depenses.png"      width="22%" alt="Formulaire dépense"/>
+  <img src="images/choixCategorie_depense.png"      width="22%" alt="Formulaire dépense"/>
+  <img src="images/confirmationSuprression_depence.png"      width="22%" alt="Formulaire dépense"/>
+  <img src="images/choixDevise_Parametres.png"      width="22%" alt="Formulaire dépense"/>
+  <img src="images/AjoutCategorie_Parametres.png"      width="22%" alt="Formulaire dépense"/>
+  <img src="images/ListeVide_NouveauMois.png"      width="22%" alt="Formulaire dépense"/>
+  
+  
 </p>
 
 <p align="center">
