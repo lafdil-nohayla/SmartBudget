@@ -39,18 +39,14 @@ Développée dans le cadre du module **Développement Mobile** — Filière LSI,
   <img src="images/ListeVide_NouveauMois.png"      width="22%" alt="Formulaire dépense"/>
   
   
-</p>
 
-<p align="center">
-  <sub>💳 Dépenses &nbsp;&nbsp;&nbsp; ➕ Ajouter &nbsp;&nbsp;&nbsp; 📊 Statistiques &nbsp;&nbsp;&nbsp; ⚙️ Paramètres</sub>
-</p>
 
 ---
 
 ### 💳 Écran Dépenses — Liste mensuelle
 
 <p align="center">
-  <img src="assets/screen_expenses.png" width="40%" alt="Écran liste des dépenses Mai 2026"/>
+  <img src="images/screen_expenses.png" width="40%" alt="Écran liste des dépenses Mai 2026"/>
 </p>
 
 > Liste de toutes les dépenses de Mai 2026 avec total **2 335,00 MAD**, filtre par catégorie et bouton **+** pour ajouter.
@@ -60,7 +56,7 @@ Développée dans le cadre du module **Développement Mobile** — Filière LSI,
 ### ➕ Formulaire — Ajouter / Modifier
 
 <p align="center">
-  <img src="assets/screen_add.png" width="40%" alt="Formulaire ajout dépense"/>
+  <img src="images/screen_add.png" width="40%" alt="Formulaire ajout dépense"/>
 </p>
 
 > Formulaire avec champ montant + **badge devise dynamique** (MAD par défaut), sélecteur de catégorie, DatePicker et note libre.
@@ -70,7 +66,7 @@ Développée dans le cadre du module **Développement Mobile** — Filière LSI,
 ### 📊 Écran Statistiques
 
 <p align="center">
-  <img src="assets/screen_stats.png" width="40%" alt="Statistiques mensuelles"/>
+  <img src="images/screen_stats.png" width="40%" alt="Statistiques mensuelles"/>
 </p>
 
 > Répartition par catégorie avec barres de progression, top catégorie et comparaison avec le mois précédent.
@@ -80,7 +76,7 @@ Développée dans le cadre du module **Développement Mobile** — Filière LSI,
 ### ⚙️ Écran Paramètres
 
 <p align="center">
-  <img src="assets/screen_settings.png" width="40%" alt="Paramètres"/>
+  <img src="images/screen_settings.png" width="40%" alt="Paramètres"/>
 </p>
 
 > Sélection de la devise (8 devises disponibles), export CSV du mois et gestion des catégories (ON/OFF).
@@ -270,19 +266,5 @@ Date,Montant,Devise,Categorie,Note,Methode Paiement
 
 Le fichier est enregistré dans le stockage interne de l'app (`getExternalFilesDir`).
 
----
 
-## 👩‍💻 Auteur
 
-**LAFDIL Nohayla**
-- Filière : LSI (Licence Sciences Informatiques)
-- Semestre : S4
-- Module : Développement Mobile
-- Encadrant : M. Zili
-- Année universitaire : 2025 — 2026
-
----
-
-## 📄 Licence
-
-Ce projet est distribué sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
