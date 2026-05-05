@@ -24,6 +24,61 @@ Développée dans le cadre du module **Développement Mobile** — Filière LSI,
 
 ---
 
+## 📸 Captures d'écran
+
+<p align="center">
+  <img src="assets/screen_expenses.png" width="22%" alt="Liste des dépenses"/>
+  <img src="assets/screen_add.png"      width="22%" alt="Formulaire dépense"/>
+  <img src="assets/screen_stats.png"    width="22%" alt="Statistiques"/>
+  <img src="assets/screen_settings.png" width="22%" alt="Paramètres"/>
+</p>
+
+<p align="center">
+  <sub>💳 Dépenses &nbsp;&nbsp;&nbsp; ➕ Ajouter &nbsp;&nbsp;&nbsp; 📊 Statistiques &nbsp;&nbsp;&nbsp; ⚙️ Paramètres</sub>
+</p>
+
+---
+
+### 💳 Écran Dépenses — Liste mensuelle
+
+<p align="center">
+  <img src="assets/screen_expenses.png" width="40%" alt="Écran liste des dépenses Mai 2026"/>
+</p>
+
+> Liste de toutes les dépenses de Mai 2026 avec total **2 335,00 MAD**, filtre par catégorie et bouton **+** pour ajouter.
+
+---
+
+### ➕ Formulaire — Ajouter / Modifier
+
+<p align="center">
+  <img src="assets/screen_add.png" width="40%" alt="Formulaire ajout dépense"/>
+</p>
+
+> Formulaire avec champ montant + **badge devise dynamique** (MAD par défaut), sélecteur de catégorie, DatePicker et note libre.
+
+---
+
+### 📊 Écran Statistiques
+
+<p align="center">
+  <img src="assets/screen_stats.png" width="40%" alt="Statistiques mensuelles"/>
+</p>
+
+> Répartition par catégorie avec barres de progression, top catégorie et comparaison avec le mois précédent.
+
+---
+
+### ⚙️ Écran Paramètres
+
+<p align="center">
+  <img src="assets/screen_settings.png" width="40%" alt="Paramètres"/>
+</p>
+
+> Sélection de la devise (8 devises disponibles), export CSV du mois et gestion des catégories (ON/OFF).
+
+---
+
 ## ✨ Fonctionnalités
 
 ### Principales
