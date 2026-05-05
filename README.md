@@ -184,7 +184,7 @@ SmartBudget/
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/NohaylaLafdil/SmartBudget.git
+git clone https://github.com/lafdil-nohayla/SmartBudget.git
 
 # 2. Ouvrir dans Android Studio
 #    File → Open → sélectionner le dossier SmartBudget/
