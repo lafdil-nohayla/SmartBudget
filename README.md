@@ -27,10 +27,10 @@ Développée dans le cadre du module **Développement Mobile** — Filière LSI,
 ## 📸 Captures d'écran
 
 <p align="center">
-  <img src="assets/screen_expenses.png" width="22%" alt="Liste des dépenses"/>
-  <img src="assets/screen_add.png"      width="22%" alt="Formulaire dépense"/>
-  <img src="assets/screen_stats.png"    width="22%" alt="Statistiques"/>
-  <img src="assets/screen_settings.png" width="22%" alt="Paramètres"/>
+  <img src="images/screen_expenses.png" width="22%" alt="Liste des dépenses"/>
+  <img src="images/screen_add.png"      width="22%" alt="Formulaire dépense"/>
+  <img src="images/screen_stats.png"    width="22%" alt="Statistiques"/>
+  <img src="images/screen_settings.png" width="22%" alt="Paramètres"/>
 </p>
 
 <p align="center">
