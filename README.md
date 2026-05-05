@@ -196,7 +196,7 @@ git clone https://github.com/lafdil-nohayla/SmartBudget.git
 #    Shift + F10  (ou bouton ▶ vert)
 ```
 
-> ⚠️ Au premier lancement, l'app insère automatiquement **34 dépenses de démo** réparties sur 2 mois. Pour réinitialiser : désinstaller l'app puis la réinstaller.
+> ⚠️ Au premier lancement, l'app insère automatiquement **34 dépenses de démo** réparties sur 2 mois.
 
 ---
 
